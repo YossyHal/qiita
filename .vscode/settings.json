@@ -1,0 +1,24 @@
+{
+    // general
+    "editor.fontFamily": "BIZ UDゴシック",
+    "files.insertFinalNewline": true,
+    "files.eol": "\n",
+    "files.exclude": {
+        ".gitattributes": true,
+    },
+    // markdown
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    },
+    "markdownlint.config": {
+        "MD025": false,
+        "MD033": false,
+        "MD041": false,
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.markdownlint": true,
+    },
+    "pasteImage.path": "${currentFileDir}/images",
+}
