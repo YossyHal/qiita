@@ -1,9 +1,3 @@
----
-title: YUVフォーマットの違いを世界一分かりやすく解説
-tags: gstreamer OpenCV
-author: Yossy_Hal
-slide: false
----
 `YUY2` `I420` といった単語をよく目にするけど、こいつらって結局どう違うんじゃい！  
 というのを完全に理解できるようにまとめた  
 
